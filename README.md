@@ -1,0 +1,1 @@
+[![Build and Test](https://github.com/2025csakashaa-stack/exp-6/actions/workflows/ci.yml/badge.svg)](https://github.com/2025csakashaa-stack/exp-6/actions/workflows/ci.yml)
